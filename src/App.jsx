@@ -4,6 +4,7 @@ import AvailablePlayers from './components/AvailablePlayers/AvailablePlayers'
 
 import Navbar from './components/NavBar/Navbar'
 import SelectedPlayers from './components/SelectedPlayers/SelectedPlayers'
+import Banner from './components/Banner/Banner'
 
 const promisePlayers = fetch('/players.json').then(res => res.json())
 
@@ -13,7 +14,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <div className='mt-12 max-w-7xl mx-auto'>
-        
+        <Banner></Banner>
 
         <div className='flex items-center justify-between py-8 px4'>
           <h1 className='font-bold text-2xl'>Available Players</h1>
