@@ -3,34 +3,34 @@
     "id": 1,
     "name": "Kane Williamson",
     "country": "New Zealand",
-    "playing_role": "Top-order batter",
+    "playing_role": "Batter",
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm off-break",
     "rating": 895,
     "price": "€1,200,000",
-    "img": "https://i.ibb.co.com/HTWjvFHL/Kane-Williamson.png"
+    "img": "https://i.ibb.co.com/pBQKbnWH/gettyimages-1711498808-612x612.jpg"
   },
   {
     "id": 2,
     "name": "Virat Kohli",
     "country": "India",
-    "playing_role": "Top & middle-order batter",
+    "playing_role": "Batter",
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm occasional medium",
     "rating": 937,
     "price": "€1,500,000",
-    "img": "https://i.ibb.co.com/mxR0K01/164-compress.jpg"
+    "img": "https://i.ibb.co.com/V08KkZ3G/virat-kohli.jpg"
   },
   {
     "id": 3,
     "name": "Babar Azam",
     "country": "Pakistan",
-    "playing_role": "Top-order batter",
+    "playing_role": "Batter",
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm occasional off-spin",
     "rating": 795,
     "price": "€1,300,000",
-    "img": "https://i.ibb.co.com/7JRYPqhc/images.jpg"
+    "img": "https://i.ibb.co.com/gLKbbWhm/gettyimages-2155759662-612x612.jpg"
   },
   {
     "id": 4,
@@ -41,68 +41,68 @@
     "bowling_style": "Left-arm fast",
     "rating": 662,
     "price": "€1,100,000",
-    "img": "https://i.ibb.co.com/h1nckjV7/images-1.jpg"
+    "img": "https://i.ibb.co.com/qM0yDL3n/gettyimages-2155759897-612x612.jpg"
   },
   {
     "id": 5,
     "name": "Shubman Gill",
     "country": "India",
-    "playing_role": "Opening / Top-order batter",
+    "playing_role": "Batter",
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm off-break (very occasional)",
     "rating": 763,
     "price": "€900,000",
-    "img": "https://i.ibb.co.com/WvDV6mTY/62.jpg"
+    "img": "https://i.ibb.co.com/bMngRrfC/gettyimages-2155144022-612x612.jpg"
   },
   {
     "id": 6,
     "name": "Rashid Khan",
     "country": "Afghanistan",
-    "playing_role": "Bowler / All-rounder",
+    "playing_role": "All Rounder",
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm leg spin",
     "rating": 669,
     "price": "€1,000,000",
-    "img": "https://i.ibb.co.com/1GJcJbBZ/Rashid-Khan-1200x768-profile-image-one-to-one.webp"
+    "img": "https://i.ibb.co.com/FLSKMjKp/gettyimages-2155156903-612x612.jpg"
   },
   {
     "id": 7,
     "name": "Joe Root",
     "country": "England",
-    "playing_role": "Middle-order batter",
+    "playing_role": "Batter",
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm off-spin (occasional)",
     "rating": 895,
     "price": "€1,400,000",
-    "img": "https://i.ibb.co.com/0RhZX9mY/10129.webp"
+    "img": "https://i.ibb.co.com/7dWVZztH/gettyimages-1651060333-612x612.jpg"
   },
   {
     "id": 8,
     "name": "Travis Head",
     "country": "Australia",
-    "playing_role": "Opening / Top batter",
+    "playing_role": "Batter",
     "batting_style": "Left-handed",
     "bowling_style": "Right-arm off-spin (very occasional)",
     "rating": 855,
     "price": "€1,000,000",
-    "img": "https://i.ibb.co.com/tMQ22Wjy/62023.webp"
+    "img": "https://i.ibb.co.com/B2sF4PZV/gettyimages-2167089458-612x612.jpg"
   },
   {
     "id": 9,
     "name": "Hardik Pandya",
     "country": "India",
-    "playing_role": "All-rounder",
+    "playing_role": "All Rounder",
     "batting_style": "Right-handed",
     "bowling_style": "Right-arm fast-medium",
     "rating": 244,
     "price": "€850,000",
-    "img": "https://i.ibb.co.com/LXfshC9f/5983.png"
+    "img": "https://i.ibb.co.com/9JpV5XM/Hardik-Pandya.jpg"
   },
   {
     "id": 10,
     "name": "Shakib Al Hasan",
     "country": "Bangladesh",
-    "playing_role": "All-rounder",
+    "playing_role": "All Rounder",
     "batting_style": "Left-handed",
     "bowling_style": "Left-arm orthodox spin",
     "rating": 303,
@@ -113,12 +113,12 @@
     "id": 11,
     "name": "Jos Buttler",
     "country": "England",
-    "playing_role": "Wicket-keeper batter",
+    "playing_role": "Batter",
     "batting_style": "Right-handed",
     "bowling_style": "–",
     "rating": 717,
     "price": "€1,200,000",
-    "img": "https://i.ibb.co.com/1GpkjQpP/873-IPL.png"
+    "img": "https://i.ibb.co.com/b5JHB7QY/gettyimages-1711629360-612x612.jpg"
   },
   {
     "id": 12,
